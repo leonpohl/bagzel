@@ -1,0 +1,2 @@
+You may freely use, modify and/or distribute this file.
+(But consider adapting the scripts if you need modifications.)
